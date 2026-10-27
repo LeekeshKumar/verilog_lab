@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/train/OneDrive/Documents/B8_verilog_lab
+vha
+Z1 !s110 1792992800
+!i10b 1
+!s100 ^m:W5C;jC=4KYS:j4@]3h3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+In5iR`B=Qz4Kl4]m@a=<0n3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1792992057
+8half_adder.v
+Fhalf_adder.v
+!i122 5
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1792992800.000000
+Z6 !s107 half_adder.v|ha_tb.v|
+Z7 !s90 -reportprogress|300|ha_tb.v|
+!i113 1
+Z8 tCvgOpt 0
+vha_tb
+R1
+!i10b 1
+!s100 e]dP<>l5>E6TD2K;P3Z5c0
+R2
+I;gd_nMTDRGj8g>:mePn960
+R3
+R0
+w1792992713
+8ha_tb.v
+Fha_tb.v
+!i122 5
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vhs
+!s110 1793077009
+!i10b 1
+!s100 fIeOAE`Aze4mZhPbdSF;63
+R2
+Id`H7n;?6Eg4ECPVnFJZ^l0
+R3
+Z9 dC:/Users/train/OneDrive/Documents/VLSIGURU/B7_verilog_lab/combinational
+w1793075121
+8hs.v
+Fhs.v
+!i122 7
+L0 1 10
+R4
+r1
+!s85 0
+31
+!s108 1793077008.000000
+!s107 hs.v|
+!s90 -reportprogress|300|hs.v|
+!i113 1
+R8
+vtb
+!s110 1793077107
+!i10b 1
+!s100 73kanUJ3XNXm[VDUZQRVb0
+R2
+INThS9JW7T8Tc]4RFcEKDE1
+R3
+R9
+w1793077104
+8tb.v
+Ftb.v
+!i122 10
+L0 1 28
+R4
+r1
+!s85 0
+31
+!s108 1793077107.000000
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+R8
